@@ -1,0 +1,20 @@
+.NavbarBtn {
+  margin-top: 9px;
+  height: 51px;
+  line-height: 20px;
+  outline: none;
+  text-decoration: none;
+  font: normal 13px Avenir, Arial, georgia;
+  text-align: center;
+  padding: 10px 18px 0 18px;
+}
+
+.NavbarBtn-hover {
+  color: #669900;
+  background: #2c2a29;
+}
+
+.NavbarBtn-leave {
+  color: black;
+  background: #f6f5ef;
+}

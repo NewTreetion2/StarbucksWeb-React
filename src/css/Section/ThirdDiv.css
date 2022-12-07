@@ -1,0 +1,28 @@
+.ThirdDiv-background {
+  width: 100vw;
+  height: 800px;
+  background: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.ThirdDiv-contants {
+  width: 60vw;
+  height: 570px;
+  display: flex;
+  gap: 60px;
+}
+
+.ThirdDiv-text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  flex: 3;
+  gap: 30px;
+}
+
+.ThirdDiv-img {
+  flex: 7;
+}

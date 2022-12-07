@@ -1,0 +1,22 @@
+.hover-underline:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.underlineBtn-design {
+  font: normal 13px Avenir, Arial, georgia;
+  padding: 2px 15px;
+  border-right: 0.5px solid;
+  border-color: gray;
+  border: 1px solid;
+  border-left: none;
+  border-top: none;
+  border-bottom: none;
+  background: #f6f5ef;
+  color: #555;
+  height: 20px;
+}
+
+.underlineBtn-design:last-child {
+  border-right: none;
+}

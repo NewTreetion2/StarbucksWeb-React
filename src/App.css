@@ -1,0 +1,13 @@
+body {
+  width: 100vw;
+  background: url("https://www.starbucks.co.kr/common/img/main/fav_prod_bg_new.jpg")
+    center center fixed no-repeat #45434c;
+  background-size: auto;
+  font-family: "nbg", "맑은 고딕", HelveticaNeue, DroidSans, Sans-serif,
+    Helvetica;
+  background-color: #f6f5ef;
+}
+
+header {
+  z-index: 80;
+}

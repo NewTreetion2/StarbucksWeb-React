@@ -1,0 +1,10 @@
+.squareBtn-design {
+  border: 1px solid;
+  padding: 4px 5px 0 5px;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.hover-squareBtn:hover {
+  cursor: pointer;
+}

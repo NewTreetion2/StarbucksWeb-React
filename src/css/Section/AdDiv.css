@@ -1,0 +1,10 @@
+.AdDiv-design {
+  position: fixed;
+  right: 25px;
+  top: 160px;
+  width: 161px;
+  height: 220px;
+  background: url("https://image.istarbucks.co.kr/upload/banner/floatingbnr/DIFON2_20221115110757813.png")
+    no-repeat;
+  background-size: 85% 85%;
+}
