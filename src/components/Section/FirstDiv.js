@@ -51,7 +51,6 @@ function FirstDiv() {
           height="70%"
         ></img>
       </div>
-     
     </section>
   );
 }

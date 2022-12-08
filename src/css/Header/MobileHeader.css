@@ -1,0 +1,41 @@
+.mobile-header {
+    width: 100vw;
+    height: 70px;
+    position: fixed;
+    background-color: #f6f5ef;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.header-menu {
+    display: flex;
+    gap: 35px;
+    height: 70px;
+    align-items: center;
+}
+
+.menu1 {
+    background: url("https://www.starbucks.co.kr/common/img/common/icon_user_m.png") no-repeat;
+    background-size: cover;
+    width: 25px;
+    height: 30px;
+    border: none;
+    
+}
+
+.menu2 {
+    background: url("https://www.starbucks.co.kr/common/img/common/icon_spot_m.png") no-repeat;
+    background-size: cover;
+    width: 26px;
+    height: 35px;
+    border: none;
+}
+
+.menu3 {
+    background: url("https://www.starbucks.co.kr/common/img/common/btn_berger_m.png") no-repeat;
+    background-size: cover;
+    width: 30px;
+    height: 30px;
+    border: none;
+}

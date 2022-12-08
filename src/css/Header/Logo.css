@@ -1,3 +1,14 @@
+@media screen and (max-width:767px) {
+  .logo {
+    margin: none;
+  }
+  
+  .logo-img {
+    width: 45px;
+    height: 45px;
+  }
+}
+
 .logo {
   margin-right: 150px;
   margin-top: 5px;
